@@ -5,6 +5,9 @@ A purge-style in-game event for your players!
 
 Originally created for CaliRP, but thought i'd release so people can use it themselves and have fun with it with halloween approaching!
 
+## Youtube Trailer
+https://www.youtube.com/watch?v=aUx4WiRaRhs&t=1s
+
 I made some edits to make it more friendly for GitHub including editable files for people with different resources.
 
 ### Exports
